@@ -1,12 +1,31 @@
-# React + Vite
+# Demo_TwinsDoc_Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Frontend for **Demo_TwinsDoc** – a responsive healthcare system UI built using the MERN stack.
 
-Currently, two official plugins are available:
+## 🖥️ Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is the React-based frontend for a healthcare platform that enables efficient communication between patients and doctors. It uses Context API for state management, Axios for API integration, and vanilla CSS for styling.
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive design with plain CSS
+- Patient-doctor interaction UI
+- Authentication UI
+- Context API for state management
+- API communication with Axios
+- Seamless integration with backend (Node.js/Express)
+
+## 🛠️ Tech Stack
+
+- **React**
+- **Context API**
+- **Axios**
+- **CSS**
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/yourusername/Demo_TwinsDoc_Frontend.git
+cd Demo_TwinsDoc_Frontend
+npm install
+npm start
