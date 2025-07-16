@@ -2,14 +2,13 @@
 ## 📁 Demo_TwinsDoc_Frontend
 
 ### 🩺 TwinsDoc – Patient Portal (Frontend)
-A React + TypeScript frontend for patients to register, login, browse doctors, and book appointments in an online medical consultation system.
+A React frontend for patients to register, login, browse doctors, and book appointments in an online medical consultation system.
 
 ### 🚀 Live Site
 ➡️ [demo-twinsdoc.netlify.app](https://demo-twinsdoc-swapnil-pote.netlify.app)
 
 ### ⚙️ Tech Stack
 - React.js (w/ Hooks)
-- TypeScript
 - Redux
 - Sass / CSS3
 - Axios
@@ -31,8 +30,3 @@ cd Demo_TwinsDoc_Frontend
 npm install
 npm run dev
 ```
-
-### 📸 Screenshots
-(Add screenshots here)
-
----
